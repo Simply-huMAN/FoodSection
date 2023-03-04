@@ -1,5 +1,10 @@
 <div class="foodSection max-w-screen-xl h-full bg-slate-400 mx-auto">
-  <div class="h-16 pt-2 text-4xl font-bold text-center"> FoodSection
+  <div class="">
+    <h1 class="text-4xl font-bold text-center">FoodSection</h1>
+    <div class="flex justify-center mt-2">
+      <p class="text-xl mx-2 bg-blue-500 px-2 py-1 rounded-md text-white cursor-pointer hover:bg-blue-700">order</p>
+      <p class="text-xl mx-2 bg-blue-500 px-2 py-1 rounded-md text-white cursor-pointer hover:bg-blue-700">donate</p>
+    </div>
   </div>
   <div class="flex flex-wrap justify-center">
   <div class="food1 md:w-72 bg-black text-white rounded-xl m-2 p-3">
